@@ -1,0 +1,17 @@
+.box{
+  width: 40%;
+  box-shadow: 5px 5px 10px 0px rgb(80, 80, 80);
+  margin: 50px auto;
+  border-radius: 10px;
+  padding: 20px;
+  text-align: center;
+}
+
+.box button{
+  padding: 3px 15px;
+  margin: 0 5px;
+}
+.box span{
+  display: inline-block;
+  width: 25px;
+}
